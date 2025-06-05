@@ -1,0 +1,472 @@
+
+.signin{
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 10%;
+    display:grid;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  
+   
+}
+.submit{
+  
+    width:30%;
+    height: 30px;
+    color:white;
+    background-color: black;
+    border: 2px solid white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-top: 2%;
+}
+.submit:hover{
+  background-color: grey;
+}
+.label{
+  
+  
+   border: none;
+   text-align: center;
+}
+.login{
+    border-color: blue;
+}
+.resolution{
+    color: black;
+    font-family: Arial;
+    text-decoration: underline;
+
+
+}
+.resolution:hover{
+    color: grey;
+   
+
+}
+.or{
+    border:none;
+    border-top: 1px solid grey;
+    width: 50%;
+    text-align: center;
+   margin-left: 23%;
+}
+.bottomnav{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 35%;
+    margin-top: 5%;
+    width:60%;
+    
+    }
+    .bottomnavi{
+      list-style: none;
+      display: flex;
+      flex-direction: row;
+      text-align: center;
+      text-decoration: none;
+      margin-left: 20%;
+      margin-top: 5%;
+      width:60%;
+      
+      }
+    h1{
+        color: grey;
+        text-decoration: underline;
+    }
+    li{
+        text-decoration:none;
+        text-align: center;
+    }
+    .nav{
+        text-decoration: none;
+        text-align: center;
+        margin: 30px 30px 30px;
+        color: black;
+    }
+    .nav:hover{
+        color:grey;
+
+    }
+    .homeclass{
+     
+      color: whitesmoke;
+      width: 10px;
+      padding:0;
+      margin-left:20px;
+      margin-right: 20px;
+      margin-top: 0;
+      text-align: center;
+      text-decoration: solid;
+      font-weight: bold;
+      font-family: Arial, Helvetica, sans-serif;
+      
+     
+
+
+      
+    }
+    .homeclass1{
+     
+      color: grey;
+      width: 10px;
+      padding:0;
+      margin-left:20px;
+      margin-right: 20px;
+      margin-top: 0;
+      text-align: center;
+      text-decoration: solid;
+      font-weight: bold;
+      font-family: Arial, Helvetica, sans-serif;
+      
+     
+
+
+      
+    }
+    .homeclass:hover{
+        color: white;
+      width: 10px;
+      padding:5px;
+      margin-left:20px;
+      margin-right: 20px;
+      margin-top: 0;
+      text-align: center;
+      text-decoration: solid;
+      font-weight: bold;
+      font-family: Arial, Hesolid grelvetica, sans-serif;
+      border: 10px 2px 4px rgba(0, 0, 0, 0.2);
+     background-color:hwb(hue white black);
+     border-radius: 30px;
+     box-shadow:  10px 2px 4px rgba(0, 0, 0, 0.2);
+     
+
+       
+    }
+    .homeclass1:hover{
+      color: grey;
+    width: 10px;
+    padding:5px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: solid;
+    font-weight: bold;
+    font-family: Arial, Hesolid grelvetica, sans-serif;
+    border: 10px 2px 4px rgba(0, 0, 0, 0.2);
+   background-color:hwb(hue white black);
+   border-radius: 5px;
+   box-shadow:  10px 2px 4px rgba(0, 0, 0, 0.2);
+   
+
+     
+  }
+  .writeup5{
+    color:black;
+    text-align: center;
+    text-decoration: none;
+  }
+    .loginbox{
+        height:40px;
+        width:40%;
+    }
+    .links{
+        text-align: center;
+        margin-top: 3%;
+    }
+    .Navbar{
+       
+      display: flex;
+    }
+    .logo2{
+        width:7%;
+        height: 20px;
+        margin-top: 35px;
+        margin-right: 10px;
+    }
+    .logo3{
+        width:60%;
+        height: 20px;
+        margin-top: 35px;
+        margin-right: 1px;
+    }
+    .slideshow {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.slide {
+  background-image: url(slide1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.content {
+  /* Styles for the rest of the content */
+}
+.writeup{
+    text-align: center;
+    text-decoration: solid;
+    color: whitesmoke;
+    margin-top: 5%;
+    font-size:300%;
+    height: 25px;
+
+}
+.writeup1{
+    text-align: center;
+    text-decoration: solid;
+    color: whitesmoke;
+    font-size: 140%;
+   
+}
+.demo{
+    color:white;
+    background-color: transparent;
+    border: 2px solid white;
+    width: 22%;
+    height: 40px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 20%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    border-radius: 30px;
+
+
+}
+
+.demo:hover{
+   background-color: rgba(0, 0, 0, 0.2);
+   color: grey;
+   box-shadow:  0 2px 4px rgba(0, 0, 0, 0.2);
+   border:  1px rgba(0, 0, 0, 0.2);
+   border-radius: 30px;
+}
+.text-effect {
+    animation: text-effect-animation 10s infinite;
+    color:black;
+    text-decoration: none;
+  }
+  
+  @keyframes text-effect-animation {
+    0% { opacity: 0; transform: translateX(-10px); }
+    50% { opacity: 1; transform: translateX(0); }
+    100% { opacity: 0; transform: translateX(10px); }
+  }
+  .otherpages{
+    display:flex;
+    flex-direction: row;
+    margin-left: 31%;
+  
+
+   
+  }
+  .demoS{
+    color:white;
+    background-color: transparent;
+    border: 2px solid white;
+    width: 300px;
+    height: 42px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    border-radius: 30px;
+    margin-left: 3%;
+    
+}
+.demoS:hover{
+    background-color: white;
+    color: grey;
+    box-shadow:  0 2px 4px rgba(0, 0, 0, 0.2);
+    border:  1px rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+ }
+ .writeup2{
+    text-align: center;
+    text-decoration: solid;
+    color: whitesmoke;
+    margin-top: 3%;
+    margin-left: 10%;
+
+ }
+ .writeup3{
+    text-align: center;
+    text-decoration: solid;
+    color: whitesmoke;
+    margin-top: 3%;
+
+ }
+.specification{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20%;
+    text-align: center;
+    margin-left: 32%;
+    margin-bottom: 3%;
+    height: 25px;
+}
+.specification2{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-left: 32%;
+}
+.specificationa{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20%;
+  text-align: center;
+  margin-left: 20%;
+  margin-bottom: 3%;
+  height: 25px;
+}
+.specification2b{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  margin-left: 20%;
+}
+/* Add keyframe animation for slide-up effect */
+@keyframes slide-up {
+    0% {
+      opacity: 0;
+      transform: translateY(50px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .specification, .specification2 ,.specificationa, .specification2b ,.writeup,.specification3,.specification4,.specification5,.specification6{
+    opacity: 0;
+    animation: slide-up 12s ease forwards;
+  }
+  
+  .demoS,.writeup1{
+    opacity: 0;
+    animation: slide-up 8s ease forwards;
+  }
+  .slide {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  
+  }
+  .writeup7{
+    text-align: center;
+    margin-top:0%;
+    margin-left: 45%;
+    font-size:120%;
+    height: 25px;
+    background-color:transparent;
+    border-top: 0;
+    border-left: 0;
+    border-right:0;
+    border-bottom: 1px solid white;
+    color: whitesmoke;
+  }
+  .writeup7:hover{
+    border-bottom: 2px solid white;
+    color: white;
+  }
+  .writeupstatic{
+    text-align: center;
+    text-decoration: solid;
+    color: whitesmoke;
+    margin-top: 5%;
+    font-size:300%;
+    height: 25px;
+  }
+  .specification3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20%;
+    text-align: center;
+    margin-left: 15%;
+    margin-bottom: 0.01px;
+    height: 40px;
+  }
+  .specification4{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-left: 10%;
+  }
+  .specification5{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20%;
+    text-align: center;
+    margin-left: 40%;
+    margin-bottom: 0.01px;
+    height: 40px;
+  }
+  .specification6{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-left: 20%;
+  }
+  .demodrivewrite{
+    margin-top: 10%;
+    text-align:justify;
+    margin-left:10%;
+    width:50%;
+  }
+  .writeup8{
+    color:black;
+    text-align: justify;
+    text-decoration: none;
+  }
+  .demo112{
+    display:grid;
+  }
+  #myImage{
+    width: 40%;
+    height:300px;
+    float: right;
+    margin-right: 30%;
+    border: 5px solid white;
+    box-shadow: 20%;
+  }
+  .carbutton{
+    width:60%;
+    height: 50px;
+    border: 2px solid blue;
+    margin-left: 30%;
+    margin-top: 2%;
+    background-color: transparent;
+    color:grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  .writeup9{
+    margin-top:8%;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+
+    
+  }
